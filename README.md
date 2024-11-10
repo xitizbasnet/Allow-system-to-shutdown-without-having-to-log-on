@@ -1,5 +1,6 @@
 # Allow-system-to-shutdown-without-having-to-log-on
 
+**Allow system to shutdown without having to log on**
 1. Gpedit.msc
 2. Computer settings
 3. Windows Settings
